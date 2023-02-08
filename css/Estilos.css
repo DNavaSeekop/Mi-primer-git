@@ -4,6 +4,19 @@ body
     font-family: "Arial";
 }
 p{
+<<<<<<< HEAD
     color:blue;
     
+=======
+    color:deeppink;
+}
+h1{
+    color: aqua;
+}
+#Cabecera{
+border-style: solid;
+border-width: 1px;
+border-radius: 9%;
+
+>>>>>>> cabecera
 }
